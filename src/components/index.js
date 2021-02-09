@@ -1,0 +1,1 @@
+export { SharedComp } from "./SharedComp";
